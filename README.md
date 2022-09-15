@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Konsowa</h1>
-<h3 align="center">a diligent software engineer with 4+ years of experience building we applications. I've extensively contributed to system architecture, testing, APIs, DB design, and third-party integrations. I've worked with multiple Agile environments and teams and I have experience collaborating remotely with technical teams.</h3>
+<h3 align="left">A diligent software engineer with 4+ years of experience building we applications. I've extensively contributed to system architecture, testing, APIs, DB design, and third-party integrations. I've worked with multiple Agile environments and teams and I have experience collaborating remotely with technical teams.</h3>
 
 <p align="left"> <a href="https://twitter.com/imkonsowa" target="blank"><img src="https://img.shields.io/twitter/follow/imkonsowa?logo=twitter&style=for-the-badge" alt="imkonsowa" /></a> </p>
 
