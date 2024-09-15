@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/imkonsowa" target="blank"><img src="https://img.shields.io/twitter/follow/imkonsowa?logo=twitter&style=for-the-badge" alt="imkonsowa" /></a> </p>
 
-- 📝 I regularly write articles on [https://konsowa.com](https://konsowa.com)
-
-- 💬 Ask me about **Reactjs, Vuejs, Golang, PHP and Laravel**
-
 - 📫 How to reach me **imkonsowa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
